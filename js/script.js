@@ -211,7 +211,7 @@ function checkWinCondition() {
 
         let b3Child = b3.childNodes[0].className;
         let b5Child = b5.childNodes[0].className;
-        let b7Child = b8.childNodes[0].className;
+        let b7Child = b7.childNodes[0].className;
 
         if(b3Child == 'x' && b5Child == 'x' && b7Child == 'x'){
             // x
